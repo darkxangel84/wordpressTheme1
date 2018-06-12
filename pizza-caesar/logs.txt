@@ -1,0 +1,11 @@
+Datebase Name: pizzaCaesar
+
+wordpress database login
+pizzaman1
+password:
+Sp2H3jaDXZoMZnDL
+
+
+Wordpress Login:
+admin
+test
